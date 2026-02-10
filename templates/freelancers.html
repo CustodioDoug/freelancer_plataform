@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Freelancers</title>
+</head>
+<body>
+
+<h2>Freelancers Disponíveis</h2>
+
+{% for user in usuarios %}
+    <div>
+        <h3>{{ user.nome }}</h3>
+        <p>{{ user.profissao }}</p>
+        <p>R$ {{ user.valor }}/hora</p>
+        <p>{{ user.descricao }}</p>
+        <hr>
+    </div>
+{% endfor %}
+
+</body>
+</html>
