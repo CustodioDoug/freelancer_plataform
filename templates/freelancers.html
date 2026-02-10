@@ -1,21 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Freelancers</title>
-</head>
-<body>
+{% extends 'base.html' %}
+{% block title %}Freelancers{% endblock %}
 
-<h2>Freelancers Disponíveis</h2>
+{% block content %}
+<h2 class="mb-4">Profissionais disponíveis</h2>
 
-{% for user in usuarios %}
-    <div>
-        <h3>{{ user.nome }}</h3>
-        <p>{{ user.profissao }}</p>
-        <p>R$ {{ user.valor }}/hora</p>
-        <p>{{ user.descricao }}</p>
-        <hr>
+<div class="row">
+{% for u in usuarios %}
+    {% if u.tipo == 'profissional' %}
+    <div class="col-md-4 mb-3">
+        <div class="card p-3 shadow-sm">
+            <h5>{{ u.nome }}</h5>
+            <p>{{ u.profissao }}</p>
+            <strong>R$ {{ u.valor }}</strong>
+            <p class="mt-2">{{ u.descricao }}</p>
+        </div>
     </div>
+    {% endif %}
 {% endfor %}
-
-</body>
-</html>
+</div>
+{% endblock %}

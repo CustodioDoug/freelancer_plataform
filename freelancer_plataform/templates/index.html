@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Inicial - Freelancer Platform</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    {% extends 'base.html' %}
+
+    {% block content %}
+    <h1>Bem-vindo à MegaFreela!</h1>
+    <p>A plataforma ideal para freelancers e clientes se conectarem.</p>
+    <p>Explore nossos freelancers ou cadastre-se para começar a trabalhar!</p>
+    {% endblock %}
+</body>
+</html>
