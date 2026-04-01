@@ -1,19 +1,18 @@
 {% extends 'base.html' %}
-{% block title %}FreeHub{% endblock %}
 
 {% block content %}
 
 <div class="hero">
     <div class="hero-content">
         <h1>Conectando talentos ao futuro 🚀</h1>
-        <p>Escolha como deseja começar na FreeHub</p>
+        <p>Escolha como deseja começar</p>
 
         <div class="buttons">
-            <a href="{% url 'cadastro_cliente' %}" class="btn cliente">
-                Sou Cliente
+            <a href="/cadastro/cliente" class="btn cliente">
+                Sou Contratante
             </a>
 
-            <a href="{% url 'cadastro_freelancer' %}" class="btn freelancer">
+            <a href="/cadastro/freelancer" class="btn freelancer">
                 Sou Freelancer
             </a>
         </div>

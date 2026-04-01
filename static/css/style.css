@@ -1,8 +1,111 @@
-.navbar-brand strong {
-    font-size: 1.3rem;
-    letter-spacing: 0.5px;
+.hero {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: white;
+    text-align: center;
 }
 
-body {
-    background-color: #f8f9fa;
+.hero h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    opacity: 0.8;
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.btn {
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.cliente {
+    background-color: #2563eb;
+    color: white;
+}
+
+.freelancer {
+    background-color: #9333ea;
+    color: white;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+}
+
+.navbar{
+    padding-top:0 !important;
+    padding-bottom:0 !important;
+    height:55px !important;
+    display:flex;
+    align-items:center;
+}
+
+.navbar-brand{
+    padding:0;
+    margin:0;
+}
+
+.logo-navbar{
+    height:110px;
+    width:auto;
+    margin-top:10px;
+}
+
+.footer{
+    background: linear-gradient(135deg,#0f172a,#020617);
+    color:white;
+    padding:10px 0 20px 0;
+    margin-top:80px;
+}
+
+.footer-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap:40px;
+}
+
+.footer-col h4{
+    margin-bottom:15px;
+    font-size:18px;
+}
+
+.footer-col p{
+    opacity:0.8;
+    font-size:14px;
+}
+
+.footer-col a{
+    display:block;
+    color:#cbd5f5;
+    text-decoration:none;
+    margin-bottom:6px;
+    transition:0.3s;
+}
+
+.footer-col a:hover{
+    color:#60a5fa;
+}
+
+.footer-bottom{
+    border-top:1px solid rgba(255,255,255,0.1);
+      padding-top:15px;
+    text-align:center;
+    font-size:14px;
+    opacity:0.7;
 }
