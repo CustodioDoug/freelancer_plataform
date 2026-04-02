@@ -13,14 +13,17 @@ Projeto de Plataforma para freelancers/ empregadores:
     Trabalhei um tempo na área da alimentação, como restaurantes, lojas e com atendimento ao público. Neste tempo, fiz muitas amizades com colaboradores e empresários. Muito se dizia sobre a necessidade de integrantes fixos ou temporários para cumprir alguns serviços, mas havia também a falta de contatos e acessos a determinadas entidades para tal.
 
     Por isso tive junto a algumas pessoas a idéia de criar uma plataforma que ligasse a essas necessidades.
-Criamos um Diagrama de Entidade e Relacionamento: <img width="1358" height="601" alt="image" src="https://github.com/user-attachments/assets/6f6d43b0-253b-4038-8f31-6b75ddffed5c" />
+Criamos um Diagrama de Entidade e Relacionamento: <img width="1522" height="1466" alt="DER" src="https://github.com/user-attachments/assets/9b386e11-58af-4535-9114-3cdd76f721da" />
+
 
 Fizemos a construção com 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />, 
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          , 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />, 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />, para personalização, extensões como 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />. Criamos também um banco de dados e uma logo principal.
-    <img width="266" height="657" alt="Captura de tela 2026-04-01 154826" src="https://github.com/user-attachments/assets/d5c0b02f-481b-4ddb-bb73-21532d88c776" />
+    <img width="30" height="50" alt="Captura de tela 2026-04-01 154826" src="https://github.com/user-attachments/assets/d5c0b02f-481b-4ddb-bb73-21532d88c776" />
 
 Tela Inicial (body): <img width="1341" height="610" alt="Captura de tela 2026-04-01 151105" src="https://github.com/user-attachments/assets/cde66dff-0fa7-4677-b42e-85e7382e1786" /> 
            (footer):<img width="1346" height="191" alt="Captura de tela 2026-04-01 151133" src="https://github.com/user-attachments/assets/0094cddf-cd0c-43d9-a2e9-723b5f76571b" />
