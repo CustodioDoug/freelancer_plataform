@@ -17,11 +17,12 @@ Criamos um Diagrama de Entidade e Relacionamento: <img width="1522" height="1466
 
 
 Fizemos a construção com 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />, 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" />, 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" />, para personalização, extensões como 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" />. Criamos também um banco de dados e uma logo principal.
-    <img width="30" height="50" alt="Captura de tela 2026-04-01 154826" src="https://github.com/user-attachments/assets/d5c0b02f-481b-4ddb-bb73-21532d88c776" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" />, 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" />, 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" />, para personalização, extensões como 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="30" />. Criamos também um banco de dados e uma logo principal.
+    <img width="266" height="657" alt="Captura de tela 2026-04-01 154826" src="https://github.com/user-attachments/assets/b5200fb5-09ad-4c32-9999-eeef2f2c7bf6" />
+
 
 Tela Inicial (body): <img width="1341" height="610" alt="Captura de tela 2026-04-01 151105" src="https://github.com/user-attachments/assets/cde66dff-0fa7-4677-b42e-85e7382e1786" /> 
            (footer):<img width="1346" height="191" alt="Captura de tela 2026-04-01 151133" src="https://github.com/user-attachments/assets/0094cddf-cd0c-43d9-a2e9-723b5f76571b" />
