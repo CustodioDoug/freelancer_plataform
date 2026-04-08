@@ -1,38 +1,86 @@
-👋 Olá, sou Douglas Custódio.
+# 💼 Plataforma para Freelancers
 
-    Estou em formação na Área de Análise e Desenvolvimento de Sistemas
+👋 Olá, sou Douglas Custódio  
+Estudante de Análise e Desenvolvimento de Sistemas
+
 ---
-📖 Fizemos um portfólio para demonstrar alguns conhecimentos e estudos.
+
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de conectar freelancers a empresas que necessitam de mão de obra temporária ou fixa.
+
+A ideia surgiu a partir da minha experiência profissional na área de atendimento, onde observei dificuldades reais na contratação rápida de colaboradores.
+
 ---
-Projeto de Plataforma para freelancers/ empregadores:
-    
-    Contarei como este projeto começou, uma idéia formada por experiência e sentimento de soluções futuras.
 
-    Trabalhei um tempo na área da alimentação, como restaurantes, lojas e com atendimento ao público. Neste tempo, fiz muitas amizades com colaboradores e empresários. Muito se dizia sobre a necessidade de integrantes fixos ou temporários para cumprir alguns serviços, mas havia também a falta de contatos e acessos a determinadas entidades para tal.
+## 🚀 Problema
 
-    Por isso tive junto a algumas pessoas a idéia de criar uma plataforma que ligasse a essas necessidades.
+Empresas enfrentam dificuldades para:
+- Encontrar profissionais rapidamente  
+- Ter acesso a contatos confiáveis  
+- Gerenciar demandas temporárias  
+
 ---
-Criamos um Diagrama de Entidade e Relacionamento: <img width="1522" height="1466" alt="DER" src="https://github.com/user-attachments/assets/9b386e11-58af-4535-9114-3cdd76f721da" />
+
+## 💡 Solução
+
+Uma plataforma que conecta:
+- 👨‍💼 Contratantes  
+- 👨‍💻 Freelancers  
+
+Facilitando o processo de busca, contato e contratação.
+
+---
+
+## 🧠 Modelagem do sistema
+
+Diagrama Entidade-Relacionamento (DER):
+
+<img width="1522" height="1466" alt="DER" src="https://github.com/user-attachments/assets/b605c5b5-da82-4039-836e-8ef7e4a5d5a6" />
 
 
-Fizemos a construção com 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" />, 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" />, 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" />, para personalização, extensões como 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="30" />. 
-            Criamos também um banco de dados e uma logo principal.
-            
-<img width="266" height="657" alt="Captura de tela 2026-04-01 154826" src="https://github.com/user-attachments/assets/b5200fb5-09ad-4c32-9999-eeef2f2c7bf6" />
+---
 
+## 🛠️ Tecnologias utilizadas
 
-Tela Inicial (body): <img width="1341" height="610" alt="Captura de tela 2026-04-01 151105" src="https://github.com/user-attachments/assets/cde66dff-0fa7-4677-b42e-85e7382e1786" /> 
-           (footer):<img width="1346" height="191" alt="Captura de tela 2026-04-01 151133" src="https://github.com/user-attachments/assets/0094cddf-cd0c-43d9-a2e9-723b5f76571b" />
+- HTML5  
+- CSS3  
+- Python  
+- Flask  
+- PostgreSQL  
 
-Área do Freelancer: <img width="1358" height="601" alt="Captura de tela 2026-04-01 151235" src="https://github.com/user-attachments/assets/55281a77-bd43-4e2c-ae3f-2ae72824e961" />
+---
 
-Área do Contratante: <img width="1362" height="468" alt="Captura de tela 2026-04-01 151208" src="https://github.com/user-attachments/assets/d7123e01-8fc4-435f-bf75-d3423ce520d6" />
+## 🖥️ Funcionalidades
 
-    Obs: Esse é o início, poderá haver elementos futuros como: área de suporte, negociação, de avaliações (contratante/ contratado), etc.
+- Área do Freelancer  
+- Área do Contratante  
+- Interface web responsiva  
 
+---
 
-Colaboradora: Cláudia Alamino.
+## 📸 Demonstração
+
+### Tela inicial
+<img width="1341" height="610" alt="Captura de tela 2026-04-01 151105" src="https://github.com/user-attachments/assets/c77c1f53-e491-4f13-ac9b-851590da9030" />
+
+### Área do Freelancer
+<img width="1358" height="601" alt="Captura de tela 2026-04-01 151235" src="https://github.com/user-attachments/assets/989f6190-7752-44c0-8244-7f37964028c1" />
+
+### Área do Contratante
+<img width="1362" height="468" alt="Captura de tela 2026-04-01 151208" src="https://github.com/user-attachments/assets/c7e30e87-f1f1-494a-a82c-81b5dcd54e9a" />
+
+---
+
+## 🔮 Melhorias futuras
+
+- Sistema de avaliações  
+- Chat entre usuários  
+- Área de suporte  
+- Sistema de negociação  
+
+---
+
+## 🤝 Colaboração
+
+Projeto desenvolvido com: Cláudia Alamino
